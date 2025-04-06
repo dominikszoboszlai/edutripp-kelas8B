@@ -1,1 +1,1 @@
-# edutripp-kelas8B
+# edutrip-kelas8B
